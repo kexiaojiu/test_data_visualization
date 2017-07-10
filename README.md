@@ -1,2 +1,1 @@
-# data_visualization
-practice for data visualization
+[toc]data_visualization
