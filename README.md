@@ -1,5 +1,9 @@
 # Data Visualization
 
+## 文件说明
+  **create_data**
+  生成数据，举例说明如何使用matplotlib绘图 
+  
 
 ## 需要安装库
   根据使用的环境选择具体的安装文件，这里以64位window10 python3.5为例.
