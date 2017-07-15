@@ -20,6 +20,7 @@
   使用Web应用编程接口（API）自动请求网站的特定信息而不是整个网页，再对这些数据进行可视.
   
   这里以GitHub网站信息为例.请求有关网站中Python项目的信息，然后使用Python生产交互可视化，以呈现这些项目的受欢迎程度.
+  ![](download_data/use_api/python_repos.svg)
   API调用地址:
   https://api.github.com/search/repositories?q=language:python&sort=stars
   
